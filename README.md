@@ -1,4 +1,4 @@
-# 🗽 Airbnb NEW YORK EDA Project – 2024
+# 🗽 Airbnb NEW YORK EDA Project 
  
 ![airbnb](https://github.com/user-attachments/assets/1b88aaf5-b108-4c28-bb98-0c662c49a2ae)
 
